@@ -6,7 +6,7 @@ CLASS zcl_sw_test_class DEFINITION
   PUBLIC SECTION.
   PROTECTED SECTION.
   PRIVATE SECTION.
-  "comment 4
+  "comment 5
 ENDCLASS.
 
 
