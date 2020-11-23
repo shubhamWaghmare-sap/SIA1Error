@@ -6,7 +6,7 @@ CLASS zcl_sw_test_class DEFINITION
   PUBLIC SECTION.
   PROTECTED SECTION.
   PRIVATE SECTION.
-  "In sks
+  "In github
 ENDCLASS.
 
 
